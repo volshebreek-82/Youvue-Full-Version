@@ -244,4 +244,4 @@ This repository serves as the official landing page for YouVue. The software is 
 **Get the most recent version of YouVue today!**
 
 ---
-**Last updated:** 2026-10-17 14:53:44 UTC
+**Last updated:** 2026-10-17 17:42:44 UTC
